@@ -63,7 +63,7 @@ class Game{
                        //add code to display the player's name on the respective basket.
                        // players[index-1].shapeColor = "red";
                         //ellipse(x,500,30,30);
-                        text("YOU",x-10,520);
+                        text(player.name,x-10,520);
                         console.log("hi")
                          
                      }
